@@ -48,7 +48,7 @@
 </div>
 <br/>
 <div align="center">
-<img alt="SSahil404's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=achintamkalita932=react"/>
+<img alt="Achintam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=achintamkalita932&theme=react"/>
 </div>
 <br/>
 <div align="center">
